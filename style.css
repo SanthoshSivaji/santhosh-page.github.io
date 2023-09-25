@@ -1,0 +1,55 @@
+img[alt*="Info icon"] {
+    display: none;
+}
+
+#html5-qrcode-button-camera-permission {
+    padding: 12px 12px;
+    border: 1px solid #90A4AE;
+    background-color: #E0F7FA;
+}
+
+#html5-qrcode-button-camera-start {
+    padding: 12px 12px;
+    border: 1px solid #90A4AE;
+    background-color: #2E7D32;
+    color: #fff;
+}
+
+#html5-qrcode-button-camera-stop {
+    padding: 12px 12px;
+    border: 1px solid #90A4AE;
+    background-color: #F4511E;
+    color: #fff;
+}
+
+#html5-qrcode-anchor-scan-type-change {
+    color: #1976D2;
+    text-decoration: none !important;
+}
+
+#html5-qrcode-anchor-scan-type-change:hover {
+    text-decoration: underline !important;
+}
+
+#html5-qrcode-button-file-selection {
+    padding: 12px 12px;
+    border: 1px solid #90A4AE;
+    background-color: #E0F7FA;
+}
+
+#qr-reader-results ul {
+    padding: 0;
+}
+
+#qr-reader-results ul li {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+#html5-qrcode-select-camera {
+    padding: 7px 12px;
+}
